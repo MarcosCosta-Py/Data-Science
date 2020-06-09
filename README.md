@@ -19,4 +19,4 @@ Como estudante de estatística tenho um amplo conhecimento em análises de dados
 ## Projetos:
 
 * **QuarentenaDados-Alura:** https://github.com/MarcosCosta-Py/QuarentenaDados
-
+* **Data Science: Investigando os dados do Airbnb em Chicago:** https://github.com/MarcosCosta-Py/DSNP/blob/master/Analisando_os_Dados_do_Airbnb_Chicago_(M%C3%B3dulo1).ipynb
