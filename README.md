@@ -21,3 +21,5 @@ Como estudante de estatística tenho um amplo conhecimento em análises de dados
 * **QuarentenaDados-Alura:** https://github.com/MarcosCosta-Py/QuarentenaDados
 * **Data Science: Investigando os dados do Airbnb em Chicago:** https://github.com/MarcosCosta-Py/DSNP/blob/master/Analisando_os_Dados_do_Airbnb_Chicago_(M%C3%B3dulo1).ipynb
 * **Data Science: Analisando a violência no Rio de Janeiro:** https://github.com/MarcosCosta-Py/DSNP/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro_(M%C3%B3dulo2).ipynb
+* **Data Science: Panorama sobre o Covid-19 :**https://github.com/MarcosCosta-Py/DSNP/blob/master/Panorama_do_Covid_19_para_o_cen%C3%A1rio_global_e_no_Brasil-(M%C3%B3dulo3).ipynb
+* **Shinydashboard app:** https://dsmc.shinyapps.io/covid-19-dashboard/
