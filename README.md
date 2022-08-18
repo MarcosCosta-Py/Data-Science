@@ -7,16 +7,16 @@ Meu portfólio de projetos para Data Science
 
 
 # Marcos Costa
-<sub>*Graduando em estatística* na UFSCAR</sub>
+<sub>*Graduando em estatística* na UFSCar</sub>
 
-Como estudante de estatística tenho um amplo conhecimento em análises de dados e venho me aperfeiçoando em aplicações de modelos de machine learning, cojuntamente ocupo o cargo de tesoureiro no Pet-Estatística (programa de educação tutorial-estatística), onde realizo a gestão financeira do grupo juntamente com mais dois integrantes. Até o presente momento optei por fazer uma matéria fora da grade do meu curso, Análise de investimentos, do Departamento de engenharia de produção, que agregou ainda mais um conhecimento sobre matemática financeira, área ao qual me identifico para atuação.
+Sou uma pessoa que se encanta com cada evolução tecnológica, ideias inovadoras e empreendedorismo, desejando sempre estar por dentro de assuntos relacionados a Tech e finanças. Com intuito de construir uma carreira de sucesso em Data Science e que se relacione com todos pontos mencionados anteriormente, busco além da graduação em estatística me aperfeiçoar em programação e negócios, participando de projetos de extensão na faculdade, cursando disciplinas optativas de outros cursos, assistindo palestras e atualmente estagiando. 
 
-**Background in:** Python.
+**Background in:** Python, R e SAS.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/marcos-costa-4058b1167/)
 
-## Projetos:
+## Projetos iniciais:
 
 * **QuarentenaDados-Alura:** https://github.com/MarcosCosta-Py/QuarentenaDados
 * **Data Science: Investigando os dados do Airbnb em Chicago:** https://github.com/MarcosCosta-Py/DSNP/blob/master/Analisando_os_Dados_do_Airbnb_Chicago_(M%C3%B3dulo1).ipynb
